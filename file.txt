@@ -2,4 +2,5 @@ practicing git
 "Hi I am practicing git today".
 "So What"
 "It is ok"
+today  Aug 23
 
